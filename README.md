@@ -1,2 +1,2 @@
-# SNU_Fintech
-SNU_Fintech
+# 서울대학교 빅데이터 핀테크 전문가 과정
+과제 포트폴리오
