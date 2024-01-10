@@ -19,7 +19,6 @@ rc('font', family='AppleGothic')
 plt.rcParams['axes.unicode_minus'] = False
 
 def main():
-    # Load data
     st.title("Total number of employees")
     df1 = pd.read_csv('/Users/ysk/Documents/7th_Fintech/04.Visual/PROJECT/streamlit1/pages/page2data/total_worker.csv', encoding='utf-8')
     df1 = df1.transpose()
@@ -37,7 +36,6 @@ def main():
 
     st.title("Monthly Earnings By Industry")
 
-    # load data
     df10 = pd.read_csv('/Users/ysk/Documents/7th_Fintech/04.Visual/PROJECT/streamlit1/pages/page2data/wt5.csv', encoding='utf-8')
     df10.index = df10['Unnamed: 0']
     df10.drop(['Unnamed: 0'], axis=1, inplace=True)
@@ -117,8 +115,6 @@ def main():
         st.plotly_chart(fig, use_container_width=True)
 
     st.markdown("---")
-
-    # 보여주기!
     
     st.title("High-income Earners(2021)")
 
@@ -127,7 +123,6 @@ def main():
     fig = px.treemap(tree1, path=['total', '수도권', '시군구별'], values='highincome_num',
                      color='house_price', hover_data=['ratio'],
                      color_continuous_scale='reds')
-    # Show plot
     st.plotly_chart(fig)
 
     st.markdown("---")
