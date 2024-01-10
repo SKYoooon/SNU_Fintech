@@ -38,7 +38,6 @@ df2_array = np.array(df2)
 heatmap_df2 = df2.corr()
 
 def main():
-    # Create heatmap using seaborn
     st.title("House prices and various variables")
     st.subheader("Heatmap:")
     plt.figure(figsize=(10, 6))
