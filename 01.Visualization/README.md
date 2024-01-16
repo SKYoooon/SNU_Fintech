@@ -1,7 +1,7 @@
 ---
  엑셀 전처리하여 여러 파일로 구분되어있어, 하나의 csv로 부터 가능하도록 수정 예정
 
- [https://south-korea-realestate.streamlit.app/](url)
+https://south-korea-realestate.streamlit.app/
 바 레이스 차트는 충돌로 인하여 제거 후 배포
  
 ---
