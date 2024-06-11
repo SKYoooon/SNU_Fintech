@@ -1,11 +1,26 @@
----
- 엑셀 전처리하여 여러 파일로 구분되어있어, 하나의 csv로 부터 가능하도록 수정 예정
+***
 
+# ▶ 일자리와 부동산 가격의 상관 관계 시각화 <img src="https://img.shields.io/badge/Team_Project-000000"/>
+
+### - 과제
+- 데이터 선정하여 다양한 시각화를 활용하기
+
+### - 과제 목적
+- 일자리와 부동산 가격의 상관 관계 시각화
+
+### - 사용 툴
+- Python(Pandas,Numpy,Streamlit, Matplotlib, Seaborn)
+- Excel
+
+### - 역할
+- 조원 5명
+  - 데이터 전처리, 코드 작성, 시각화
+
+### - 배포 사이트
 https://south-korea-realestate.streamlit.app/
-바 레이스 차트는 충돌로 인하여 제거 후 배포
+- 바 레이스 차트는 충돌로 인하여 제거 후 배포
 
- 
----
+### - 대시보드 캡처
 <img width="427" alt="스크린샷 2024-01-09 131855" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/1b20cafe-4e0d-4cd7-849d-81a0a59dc295">
 <img width="408" alt="스크린샷 2024-01-09 131904" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/79d447e6-0ec8-41d3-beb4-8550657f513e">
 <img width="411" alt="스크린샷 2024-01-09 131919" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/6b6ff6fd-bd51-44f5-b89a-3ead7b014681">
