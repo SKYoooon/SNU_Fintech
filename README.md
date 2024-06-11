@@ -29,7 +29,7 @@
   - YOLO v5~8 비교 및 v8 실시간 시연
   - 역할 : 데이터 확보, PPT 제작, 시연 발표
 
-- - **5. 전기 이륜차 배터리 재고 최적화** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/05.Capstone" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
+- **5. 전기 이륜차 배터리 재고 최적화** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/05.Capstone" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
 
   - 캡스톤 우수 발표상 수상
   - 역할 : 기획, 데이터 전처리, 시각화, PPT 제작
