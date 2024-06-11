@@ -17,22 +17,24 @@
   - 기획, 데이터 전처리, 3D 시각화, 대시보드 작성, PPT 제작
 
 ### - 데이터
-- ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/95b2775c-10d9-4163-b180-fa9cb536d36d/Untitled.png)
-- ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/6ab356c7-9f71-4bb5-96be-3d8e60b86b17/Untitled.png)
-- ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/820b11f9-84cb-4d83-a90f-789ccc806245/Untitled.png)
+- <img width="664" alt="스크린샷 2024-01-09 135741" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/faee4ce1-1216-4bcd-89c1-d7eb486cdf05">
+- <img width="661" alt="스크린샷 2024-01-09 135746" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/4470fbfa-3f28-4f98-8b9d-fd2669cf4f51">
+- <img width="661" alt="스크린샷 2024-01-09 135751" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/820e65c2-1e42-46d2-9a65-1677f6a17b36">
+
 
 ### - 분석
 - 수요 정의 - 스테이션 인근 이동중인 스쿠터의 개수
 - 재고 정의 - 스테이션이 보유하고 있는 배터리 개수
 - 종합 관리 지표 - 격자 내 배터리 1개당 스쿠터 수
   - 격자 1.6kmx1.3km 900개(30x30)
-  - 1.4km= 이동중인 스쿠터의 10분 평균 거리![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/4fb8cdfa-8212-41d5-bc37-bffa3893ba61/Untitled.png)
-- 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(Grid)![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/65ca793e-29e1-42e5-bf83-dff6315836f8/Untitled.png)
-- 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(3D)[21_저용량.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/9f08bda0-d92c-4932-acd9-e3cacb42f602/21_%EC%A0%80%EC%9A%A9%EB%9F%89.mp4)
+  - 1.4km= 이동중인 스쿠터의 10분 평균 거리<img width="661" alt="스크린샷 2024-01-09 135808" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/41862eae-4c3f-4ffb-88a7-f3d2537f9c9a">
+- 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(Grid)<img width="660" alt="스크린샷 2024-01-09 135826" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/f9abc256-ef02-4383-a5dd-1c93458822b2">
+- 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(3D)![alt text](21.mp4)
+
 - 스테이션 현황 대시보드
     - 스테이션 내 배터리 잔량 평균 퍼센트 색으로 표시
     - 스테이션 배터리 보관율(0~1) 사이즈로 표시
-    - 스테이션 정보 툴팁[23.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/bc6b764e-cb9d-41b2-9119-c0f51cb0b8cf/23.mp4)
+    - 스테이션 정보 툴팁![alt text](23.mp4)
 
 ### - 결과 및 결론
 - 기존 수요를 고려하지 않고 배터리가 분배되어있었음<br/>

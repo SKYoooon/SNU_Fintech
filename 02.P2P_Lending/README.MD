@@ -26,14 +26,15 @@
 
 ### - 모델링
 - 이익을 주지만 대출이 거절된 고객(FP)은 18%의 수익률을 놓쳤다고 판단하여 0.18을 곱해주고 손해를 내지만 대출 승인된 고객(FN)은 44%의 손해를 입힌다고 판단하여 0.44를 곱하고 해당 합이 가장 낮을 때의 모델을 선정하고자함
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/f0087878-7631-47cc-aa56-a0b3e27302fa/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/53bf8a43-b3f3-45a8-b457-9757213e3a08/Untitled.png)
+<img width="840" alt="스크린샷 2024-01-09 132456" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/0ca2fcb0-bd64-40b4-9789-3c58b6557f51">
+<img width="837" alt="스크린샷 2024-01-09 132501" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/537c005e-9ea4-4187-87a0-e72e0be657bc">
+
 - 6:2:2= Train:Valid:Test세트
 - logistic regression과 random forest 실행
 
 ### - 결과
-- Random Forest의 가장 낮은 리스크 때 가장 높은 수익률![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/0351af66-a129-4578-8eb4-cbffed50bd7f/Untitled.png)
-- 평가를 위한 기존 제공되지 않던 데이터세트 적용 시 더 높아진 모습![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2efa88c5-ab86-49c6-81d8-0248d6aa7b5d/12a2eca1-abd1-4e84-afb1-ff6010b282e8/Untitled.png)
+- Random Forest의 가장 낮은 리스크 때 가장 높은 수익률<img width="838" alt="스크린샷 2024-01-09 132654" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/ec294df5-061b-48e1-aae8-94d1a0f70a02">
+- 평가를 위한 기존 제공되지 않던 데이터세트 적용 시 더 높아진 모습<img width="838" alt="스크린샷 2024-01-09 132708" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/41dd3d5f-07e5-487a-93d8-9471b7408512">
 
 ### - 결론
 - 이미 P2P 대출업체에서 심사 후 대출은 진행한 고객들의 데이터이기에 모두에게 대출을 승인해도 9.08%의 수익률이 얻어짐 → 그리하여 수익률 상승에 큰 어려움이 존재
