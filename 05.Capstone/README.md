@@ -29,15 +29,22 @@
   - 격자 1.6kmx1.3km 900개(30x30)
   - 1.4km= 이동중인 스쿠터의 10분 평균 거리<img width="661" alt="스크린샷 2024-01-09 135808" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/41862eae-4c3f-4ffb-88a7-f3d2537f9c9a">
 - 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(Grid)<img width="660" alt="스크린샷 2024-01-09 135826" src="https://github.com/SKYoooon/SNU_Fintech/assets/138483304/f9abc256-ef02-4383-a5dd-1c93458822b2">
-    - 최적화 전 :https://github.com/SKYoooon/SNU_Fintech/assets/138483304/8579703b-c86e-48f0-b80f-78ccd17ace26
+    - 최적화 전 :
+https://github.com/SKYoooon/SNU_Fintech/assets/138483304/f7dd382d-cf94-4216-a2f8-6e825c8a5226
 
-    - 최적화 후 :https://github.com/SKYoooon/SNU_Fintech/assets/138483304/6390dca3-c5a4-4b3c-b8a4-c7719159157d
-- 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(3D)[![alt text](21.mp4)](https://github.com/SKYoooon/SNU_Fintech/assets/138483304/72791f05-3d1f-4293-b434-b39bbbde4159)
+    - 최적화 후 :
+https://github.com/SKYoooon/SNU_Fintech/assets/138483304/7b06a965-6348-439a-84c8-7e712ddd53d4
+
+
+- 최적화 방안 - 스쿠터 수에 맞춘 배터리 재배치(3D)
+https://github.com/SKYoooon/SNU_Fintech/assets/138483304/4c3ba699-ed41-4cdd-9429-9b99269ed57d
+
 
 - 스테이션 현황 대시보드
     - 스테이션 내 배터리 잔량 평균 퍼센트 색으로 표시
     - 스테이션 배터리 보관율(0~1) 사이즈로 표시
-    - 스테이션 정보 툴팁[![alt text](23.mp4)](https://github.com/SKYoooon/SNU_Fintech/assets/138483304/abdccf29-005e-46f1-9fca-0a58da1dfc25)
+    - 스테이션 정보 툴팁
+https://github.com/SKYoooon/SNU_Fintech/assets/138483304/3cbda9cf-64ca-4c0a-a891-0e28836b2018
 
 ### - 결과 및 결론
 - 기존 수요를 고려하지 않고 배터리가 분배되어있었음<br/>
